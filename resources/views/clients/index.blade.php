@@ -36,7 +36,7 @@
   </div>
   <div class="form-group">
     <label for="exampleFormControlTextarea1">Feedback</label>
-    <textarea class="form-control" name="feedback" id="exampleFormControlTextarea1" rows="3"></textarea>
+    <textarea class="form-control" name="feedbacks" id="exampleFormControlTextarea1" rows="3"></textarea>
   </div>
   <button type="submit" class="btn btn-primary mb-2">Send</button>
 </form>
